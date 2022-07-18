@@ -1,0 +1,11 @@
+tasks:
+  Order robots from RobotSpareBin Industries Inc:
+    robotTaskName: Order robots from RobotSpareBin Industries Inc
+condaConfigFile: conda.yaml
+ignoreFiles:
+- .gitignore
+artifactsDir: output
+PATH:
+- .
+PYTHONPATH:
+- .

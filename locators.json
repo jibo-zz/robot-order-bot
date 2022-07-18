@@ -1,0 +1,23 @@
+{
+    "Label": {
+        "screenshot": ".images\\label-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".form-group:nth-child(3) > label"
+    },
+    "OK": {
+        "screenshot": ".images\\ok-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".btn-dark"
+    },
+    "OrderYourRobot": {
+        "screenshot": ".images\\orderyourrobot-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "link",
+        "type": "browser",
+        "value": "Order your robot!"
+    }
+}

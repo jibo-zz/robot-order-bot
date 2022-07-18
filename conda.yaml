@@ -1,0 +1,12 @@
+# Generated environment configuration file.
+
+# Editing this file manually can prevent the project from being
+# opened in Automation Studio.
+
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.13
+  - pip=22.1.2
+  - pip:
+    - rpaframework==15.0.0
