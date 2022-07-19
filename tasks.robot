@@ -17,7 +17,7 @@ Library             RPA.Robocorp.Vault
 
 *** Variables ***
 ${GLOBAL_RETRY_AMOUNT}              3x
-${GLOBAL_RETRY_INTERVAL}            5s
+${GLOBAL_RETRY_INTERVAL}            10s
 ${IMAGE_TEMP_OUTPUT_DIRECTORY}      ${CURDIR}${/}image_temp
 ${PDF_TEMP_OUTPUT_DIRECTORY}        ${CURDIR}${/}pdf_temp
 
